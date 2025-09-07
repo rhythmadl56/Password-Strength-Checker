@@ -1,4 +1,6 @@
 # 🔐 Password Strength Checker (Python)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+
 
 A simple Python program that checks the strength of a password based on length, complexity, and common password patterns.  
 This tool helps users create stronger, more secure passwords by providing instant feedback.
